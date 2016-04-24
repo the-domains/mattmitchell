@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Article for travelwith.com.au on Denmark - 2013
-datePublished: '2016-04-23T23:03:44.591Z'
-dateModified: '2016-04-23T22:39:58.494Z'
+datePublished: '2016-04-24T00:31:59.726Z'
+dateModified: '2016-04-23T23:03:52.459Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-article-for-travelwithcomau-on-denmark-2013.md
